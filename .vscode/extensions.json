@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "ms-dotnettools.csharp",
+        "alexcvzz.vscode-sqlite",
+        "jmrog.vscode-nuget-package-manager"
+    ]
+}
